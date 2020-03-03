@@ -9,3 +9,8 @@ switch(element)
     default:
         break;
 }
+
+function test()
+{
+    console.log("isso é uma função");
+}
