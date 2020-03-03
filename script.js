@@ -9,3 +9,8 @@ switch(element)
     default:
         break;
 }
+
+function Tela09()
+{
+    console.log();
+}
