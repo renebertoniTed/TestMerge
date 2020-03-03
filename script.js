@@ -14,3 +14,8 @@ function Tela09()
 {
     console.log();
 }
+
+function Func()
+{
+    console.log("hello world");
+}
